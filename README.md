@@ -14,3 +14,7 @@ To get started with this project:
    $ git clone https://github.com/your-username/hopper-blueprints-sandbox.git
    ```
 2. Open the Hopper_BP.uproject file with Unreal Engine 5.
+
+## Tested with
+
+- Unreal Engine 5.4.4
