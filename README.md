@@ -27,3 +27,5 @@ To get started with this project:
 | Feature        | Key           | Description                                                                 |
 |----------------|---------------|-----------------------------------------------------------------------------|
 | Dash           | Left Shift    | Holding down the key temporarily increases movement speed.              |
+| Interaction Prompt| (auto)      | Displays a prompt when the player approaches an interactable object.       |
+| Interaction Input | F           | Executes the interaction when the player presses the key near a target.    |
