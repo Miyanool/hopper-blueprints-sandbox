@@ -4,6 +4,9 @@ This repository is a personal fork of [captainzonks/Hopper_Blueprints](https://g
 
 Huge thanks to [captainzonks](https://github.com/captainzonks) for the original project and their incredible work.
 
+- 🎞️[UE5 - Blueprints] How to Make 2D Sprite Characters in a 3D World in Unreal Engine 5 w/ Rotating Cam
+  - https://www.youtube.com/watch?v=nfeIDtj_DxE
+
 ## Installation
 
 To get started with this project:
