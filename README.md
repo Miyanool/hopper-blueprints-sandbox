@@ -21,3 +21,9 @@ To get started with this project:
 ## Tested with
 
 - Unreal Engine 5.4.4
+
+## My Customizations
+
+| Feature        | Key           | Description                                                                 |
+|----------------|---------------|-----------------------------------------------------------------------------|
+| Dash           | Left Shift    | Holding down the key temporarily increases movement speed.              |
