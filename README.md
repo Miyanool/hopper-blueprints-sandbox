@@ -16,7 +16,7 @@ To get started with this project:
    # Make sure Git LFS is installed: https://git-lfs.github.com/
    $ git clone https://github.com/your-username/hopper-blueprints-sandbox.git
    ```
-2. Open the Hopper_BP.uproject file with Unreal Engine 5.
+2. Open the `Miyanool_Hopper_BP.uproject` file with Unreal Engine 5.
 
 ## Tested with
 
